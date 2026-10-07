@@ -4,6 +4,7 @@ build/
 .idea/
 *.iml
 out/
+.env
 .env.*
 !.env.example
 node_modules/
